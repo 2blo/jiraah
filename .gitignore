@@ -1,0 +1,6 @@
+.env
+miro
+features
+secret
+*.egg-info
+*__pycache__
